@@ -1,3 +1,3 @@
-module github.com/raoufmaklouf/Xcrlfv3
+module github.com/raoufmaklouf/Xcrlf
 
 go 1.18
